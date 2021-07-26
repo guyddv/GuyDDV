@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 * Learning new things online, through books, and through experience.
 * Computer games, because who would play on consoles, unless it's retro.
 * Working out so I don't die, and learning to cook healthier.
+
+## Professional:
+### **Upp Business Systems**
+#### **Programmer/Analyst**
+Created and maintained applications, primarily in COBOL, for the two main systems of UI, Tax and Benefits, and several smaller subsystems. Created database test data when necessary as well as performed testing, problem diagnosis and code debugging.
