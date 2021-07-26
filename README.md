@@ -43,4 +43,4 @@ HTML    |    X     |    -     |    -    |    -    |    -</pre>
 Work In Progress
 
 ## Contact:
-* https://www.linkedin.com/in/guydaughtrey/
+* [LinkedIn](https://www.linkedin.com/in/guydaughtrey/){:target="_blank"}
