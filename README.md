@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 * Working through the internal Microsoft LEAP program.
 * Learning how to use Git and GitHub.
 * Learning HTML, Markdown, CSS, and eventually C#.
+
+## I enjoy:
+* Working on, building and fixing computer hardware.
+* Learning new things online, through books, and through experience.
+* Computer games, because who would play on consoles, unless it's retro.
+* Working out so I don't die, and learning to cook healthier.
