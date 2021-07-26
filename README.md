@@ -1,4 +1,4 @@
-### Hi there 👋
+# Greetings, Earthlings!
 
 <!--
 **guyddv/GuyDDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## On GitHub I am:
+* Working through the internal Microsoft LEAP program.
+* Learning how to use Git and GitHub.
+* Learning HTML, Markdown, CSS, and eventually C#.
