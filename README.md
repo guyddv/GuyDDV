@@ -32,3 +32,12 @@ Here are some ideas to get you started:
 ### **Upp Business Systems**
 #### **Programmer/Analyst**
 Created and maintained applications, primarily in COBOL, for the two main systems of UI, Tax and Benefits, and several smaller subsystems. Created database test data when necessary as well as performed testing, problem diagnosis and code debugging.
+
+## Progress:
+**Subject** | **Familiar** | **Novice** | **Trained** | **Expert** | **Master**
+------------|--------------|------------|-------------|-----------|--------------
+<pre>Git   |   X    |   -   |   -   |   -  |   -
+MD    |   -    |   X   |   -   |   -  |   -
+HTML  |   X    |   -   |   -   |   -  |   -</pre>
+
+Work In Progress
