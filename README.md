@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## On GitHub I am:
-* Working through the internal Microsoft LEAP program.
+* Working through the *internal* Microsoft LEAP program.
 * Learning how to use Git and GitHub.
 * Learning HTML, Markdown, CSS, and eventually C#.
 
@@ -41,3 +41,6 @@ MD      |    -     |    X     |    -    |    -    |    -
 HTML    |    X     |    -     |    -    |    -    |    -</pre>
 
 Work In Progress
+
+## Contact:
+* https://www.linkedin.com/in/guydaughtrey/
