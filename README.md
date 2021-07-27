@@ -42,4 +42,8 @@ HTML    |    X     |    -     |    -    |    -    |    -</pre>
 Work In Progress
 
 ## Contact:
+<<<<<<< HEAD
 * [LinkedIn](https://www.linkedin.com/in/guydaughtrey/)
+=======
+* [LinkedIn](https://www.linkedin.com/in/guydaughtrey/){:target="_blank"}
+>>>>>>> a1b0a2659884267aac0329708095adfde8b25cb4
