@@ -1,5 +1,4 @@
 ![Computer Stuff!](https://github.com/guyddv/GuyDDV/blob/main/pexels-christina-morillo-1181675-resized-small.jpg)
-
 # Greetings, Earthlings!
 
 <!--
@@ -43,4 +42,4 @@ HTML    |    X     |    -     |    -    |    -    |    -</pre>
 Work In Progress
 
 ## Contact:
-* https://www.linkedin.com/in/guydaughtrey/
+* [LinkedIn](https://www.linkedin.com/in/guydaughtrey/)
