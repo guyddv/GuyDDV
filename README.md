@@ -35,9 +35,10 @@ Created and maintained applications, primarily in COBOL, for the two main system
 ## Progress:
 **Subject** | **Familiar** | **Novice** | **Trained** | **Expert** | **Master**
 ------------|--------------|------------|-------------|-----------|--------------
-<pre>Git     |    X     |    -     |    -    |    -    |    -
+<pre>Git     |    -     |    X     |    -    |    -    |    -
 MD      |    -     |    X     |    -    |    -    |    -
-HTML    |    X     |    -     |    -    |    -    |    -</pre>
+HTML    |    -     |    X     |    -    |    -    |    -
+CSS     |    X     |    -     |    -    |    -    |    -</pre>
 
 Work In Progress
 
